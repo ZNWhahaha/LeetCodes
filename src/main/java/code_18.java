@@ -34,6 +34,7 @@ public class code_18 {
 
             }
         }
+        
 
         return lists;
     }
