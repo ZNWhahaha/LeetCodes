@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.hj_08">
+  <component name="RunManager" selected="Application.hj_09">
     <configuration name="hj_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hj_02" />
       <module name="LeetCode" />
@@ -80,8 +80,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hj_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hj_09" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hj_09" />
         <item itemvalue="Application.hj_08" />
         <item itemvalue="Application.hj_05" />
         <item itemvalue="Application.hj_04" />
@@ -105,7 +113,7 @@
       <workItem from="1609124556591" duration="799000" />
       <workItem from="1609303291969" duration="3251000" />
       <workItem from="1609893346403" duration="1404000" />
-      <workItem from="1615183263478" duration="21330000" />
+      <workItem from="1615183263478" duration="23774000" />
     </task>
     <servers />
   </component>
@@ -124,5 +132,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hj_09.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hj_09.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
