@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34be115b-e9a6-4bcf-9e48-75a388d6e25a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hf_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hj_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hj_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hj_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hj_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hf_11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hj_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hj_12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hj_13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hj_14.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hj_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hj_09.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,14 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.hj_14">
-    <configuration name="hj_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hj_04" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.hj_15">
     <configuration name="hj_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hj_05" />
       <module name="LeetCode" />
@@ -98,13 +80,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hj_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hj_15" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hj_15" />
         <item itemvalue="Application.hj_14" />
         <item itemvalue="Application.hj_09" />
         <item itemvalue="Application.hj_08" />
         <item itemvalue="Application.hj_05" />
-        <item itemvalue="Application.hj_04" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +115,7 @@
       <workItem from="1609893346403" duration="1404000" />
       <workItem from="1615183263478" duration="24376000" />
       <workItem from="1615908613559" duration="161000" />
-      <workItem from="1615908885028" duration="2452000" />
+      <workItem from="1615908885028" duration="3962000" />
     </task>
     <servers />
   </component>
