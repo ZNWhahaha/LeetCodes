@@ -16,4 +16,4 @@ public class hj_15 {
             System.out.println(len);
         }
     }
-}
+}                                                
