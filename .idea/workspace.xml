@@ -53,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.code_70">
+  <component name="RunManager" selected="Application.code_746">
     <configuration name="code_70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="code_70" />
       <module name="LeetCode" />
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hj_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hj_08" />
+    <configuration name="code_746" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code_746" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code_746" />
         <item itemvalue="Application.code_70" />
         <item itemvalue="Application.hj_15" />
         <item itemvalue="Application.hj_14" />
         <item itemvalue="Application.hj_09" />
-        <item itemvalue="Application.hj_08" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +117,7 @@
       <workItem from="1609893346403" duration="1404000" />
       <workItem from="1615183263478" duration="24376000" />
       <workItem from="1615908613559" duration="161000" />
-      <workItem from="1615908885028" duration="6645000" />
+      <workItem from="1615908885028" duration="7991000" />
     </task>
     <servers />
   </component>
