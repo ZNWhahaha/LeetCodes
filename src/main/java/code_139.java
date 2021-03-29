@@ -43,7 +43,7 @@ public class code_139 {
             for (int j = 0; j < i; j++) {
                 String word = s.substring(j,i-j+1);
                 if (wordDict.indexOf(word) != -1 && dp[j])
-                    dp[i] = true;
+                    dp[i] = true;    
             }    
         }
         return dp[s.length()];
