@@ -15,6 +15,30 @@ public class code_860 {
 //    由于所有客户都得到了正确的找零，所以我们输出 true。
 
     public boolean lemonadeChange(int[] bills) {
-
+        int five=0, ten=0,twenty=0;
+        for (int money : bills){
+            if (money == 5)
+                five++;
+            else if (money == 10){
+                if (five <= 0)
+                    return false;
+                five--;
+                ten++;
+            }
+            else if (money == 20){
+                if (ten > 0 && five >= 1){
+                    ten--;
+                    five--;
+                    twenty++;
+                }
+                else if (five >= 3){
+                    five -= 3;
+                    twenty++;
+                }
+                else
+                    return false;
+            }
+        }
+        return true;
     }
 }
