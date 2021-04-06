@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="34be115b-e9a6-4bcf-9e48-75a388d6e25a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/code_860.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/code_860.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.code_135">
+  <component name="RunManager" selected="Application.code_406">
     <configuration name="code_135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="code_135" />
       <module name="LeetCode" />
@@ -72,15 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_416" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code_416" />
+    <configuration name="code_406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code_406" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code_70" />
+    <configuration name="code_416" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code_416" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code_406" />
         <item itemvalue="Application.code_135" />
         <item itemvalue="Application.code_376" />
         <item itemvalue="Application.code_416" />
         <item itemvalue="Application.code_746" />
-        <item itemvalue="Application.code_70" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +123,7 @@
       <workItem from="1615908613559" duration="161000" />
       <workItem from="1615908885028" duration="21302000" />
       <workItem from="1617010884889" duration="14875000" />
-      <workItem from="1617629392640" duration="735000" />
+      <workItem from="1617629392640" duration="3619000" />
     </task>
     <servers />
   </component>
