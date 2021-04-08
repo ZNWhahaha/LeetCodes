@@ -1,3 +1,6 @@
+import java.util.Arrays;
+import java.util.Comparator;
+
 public class code_452 {
 
 //    在二维空间中有许多球形的气球。对于每个气球，提供的输入是水平方向上，气球直径的开始和结束坐标。由于它是水平的，所以纵坐标并不重要，因此只要知道开始和结束的横坐标就足够了。开始坐标总是小于结束坐标。
@@ -11,7 +14,32 @@ public class code_452 {
 //    输入：points = [[1,2],[3,4],[5,6],[7,8]]
 //    输出：4
 
-    public int findMinArrowShots(int[][] points) {
+    public static int findMinArrowShots(int[][] points) {
+        if (points.length == 0)
+            return 0;
+        Arrays.sort(points, new Comparator<int[]>() {
+                    @Override
+                    public int compare(int[] o1, int[] o2) {
+                        if (o1[0] < o2[0])
+                            return -1;
+                        else
+                            return 1;
+                    }
+                }
+        );
+        int result = 1;
+        for (int i = 1; i < points.length; i++) {
+            if (points[i][0] > points[i-1][1])
+                result++;
+            else{
+                points[i][1] = Math.min(points[i-1][1],points[i][1]);
+            }
+        }
+        return result;
+    }
 
+    public static void main(String[] args){
+        int[][] p = new int[][]{{10,16},{2,8},{1,6},{7,12}};
+        findMinArrowShots(p);
     }
 }
