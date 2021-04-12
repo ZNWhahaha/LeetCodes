@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="34be115b-e9a6-4bcf-9e48-75a388d6e25a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/code_56$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/code_56$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/code_56.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/code_56.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.code_56">
+  <component name="RunManager" selected="Application.code_40">
     <configuration name="code_135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="code_135" />
       <module name="LeetCode" />
@@ -64,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_376" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code_376" />
+    <configuration name="code_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code_40" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code_40" />
         <item itemvalue="Application.code_56" />
         <item itemvalue="Application.code_452" />
         <item itemvalue="Application.code_406" />
         <item itemvalue="Application.code_135" />
-        <item itemvalue="Application.code_376" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +126,7 @@
       <workItem from="1617010884889" duration="14875000" />
       <workItem from="1617629392640" duration="6006000" />
       <workItem from="1617930995646" duration="308000" />
-      <workItem from="1617931999113" duration="14844000" />
+      <workItem from="1617931999113" duration="19115000" />
     </task>
     <servers />
   </component>
