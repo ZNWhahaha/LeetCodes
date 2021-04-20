@@ -9,7 +9,7 @@ public class code_206 {
      *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
      * }
      */
-    public class ListNode {
+    private class ListNode {
         int val;
         ListNode next;
         ListNode() {}

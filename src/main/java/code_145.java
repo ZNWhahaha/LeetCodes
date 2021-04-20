@@ -9,7 +9,7 @@ public class code_145 {
 
 //    给定一个二叉树，返回它的 后序 遍历。
 
-    public class TreeNode {
+    private class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;

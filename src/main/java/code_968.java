@@ -8,7 +8,7 @@ public class code_968 {
 //    输出：1
 //    解释：如图所示，一台摄像头足以监控所有节点。
     
-    public class TreeNode {
+    private class TreeNode {
           int val;
           TreeNode left;
           TreeNode right;

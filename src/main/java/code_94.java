@@ -5,7 +5,7 @@ import java.util.Stack;
 public class code_94 {
     //    给定一个二叉树，返回它的中序遍历。
 
-    public class TreeNode {
+    private class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;
