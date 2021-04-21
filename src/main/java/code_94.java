@@ -45,8 +45,7 @@ public class code_94 {
                 cur = cur.left;
             }
             else {
-                cur = st.peek();
-                st.pop();
+                cur = st.pop();
                 result.add(cur.val);
                 cur = cur.right;
             }
