@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="34be115b-e9a6-4bcf-9e48-75a388d6e25a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code_242.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/code_242.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +14,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,7 +127,7 @@
       <workItem from="1617010884889" duration="14875000" />
       <workItem from="1617629392640" duration="6006000" />
       <workItem from="1617930995646" duration="308000" />
-      <workItem from="1617931999113" duration="80528000" />
+      <workItem from="1617931999113" duration="81049000" />
     </task>
     <servers />
   </component>
