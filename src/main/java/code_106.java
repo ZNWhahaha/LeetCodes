@@ -24,7 +24,14 @@ public class code_106 {
     }
 
     public TreeNode buildTree(int[] inorder, int[] postorder) {
+         try {
 
+
+
+             sdfsd
+
+                     sf
+         }
     }
 
 }
