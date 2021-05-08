@@ -36,10 +36,10 @@ public class code_102 {
                 TreeNode node = dt.getFirst();
                 dt.removeFirst();
                 vec.add(node.val);
-                if (node.right != null)
-                    dt.addLast(node.right);
                 if (node.left != null)
                     dt.addLast(node.left);
+                if (node.right != null)
+                    dt.addLast(node.right);
             }
             result.add(vec);
         }
