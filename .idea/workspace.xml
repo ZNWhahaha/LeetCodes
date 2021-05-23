@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="34be115b-e9a6-4bcf-9e48-75a388d6e25a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hj/hj_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hj/hj_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hj/hf_11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hj/hf_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hj/hj_16.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hj/hj_16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hj/hj_17.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hj/hj_17.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,14 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.hj_17">
-    <configuration name="code_242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.code_242" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.hj_25">
     <configuration name="code_383" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.code_383" />
       <module name="LeetCode" />
@@ -107,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hj_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hj.hj_25" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hj_25" />
         <item itemvalue="Application.hj_17" />
         <item itemvalue="Application.code_countingSirt" />
         <item itemvalue="Application.code_quicksort" />
         <item itemvalue="Application.code_383" />
-        <item itemvalue="Application.code_242" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +150,7 @@
       <workItem from="1617930995646" duration="308000" />
       <workItem from="1617931999113" duration="120784000" />
       <workItem from="1621492261697" duration="122000" />
-      <workItem from="1621509268229" duration="14756000" />
+      <workItem from="1621509268229" duration="18673000" />
     </task>
     <servers />
   </component>
