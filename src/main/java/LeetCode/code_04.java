@@ -2,7 +2,8 @@ package LeetCode;
 
 //给定两个大小分别为 m 和 n 的正序（从小到大）数组 nums1 和 nums2。请你找出并返回这两个正序数组的 中位数
 
-public class hot_4 {
+public class code_04 {
+
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int m = nums1.length;
         int n = nums2.length;
@@ -22,4 +23,5 @@ public class hot_4 {
         else
             return right;
     }
+
 }

@@ -5,7 +5,8 @@ package LeetCode;
 //        '*' 匹配零个或多个前面的那一个元素
 //        所谓匹配，是要涵盖 整个 字符串 s的，而不是部分字符串。
 
-public class hot_6 {
+public class code_06 {
+
     public boolean isMatch(String s, String p) {
         int m = s.length();
         int n = p.length();
@@ -37,4 +38,5 @@ public class hot_6 {
         }
         return dp[m][n];
     }
+
 }

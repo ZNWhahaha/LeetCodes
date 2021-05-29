@@ -1,10 +1,6 @@
 package LeetCode;
 
-import java.util.Deque;
-import java.util.LinkedList;
-
-public class hot_2 {
-
+public class code_02 {
     private class ListNode {
         int val;
         ListNode next;
@@ -31,6 +27,4 @@ public class hot_2 {
         }
         if (carry != 0) curr.next = new ListNode(carry);
         return dummy.next;
-    }
-
-}
+    }}

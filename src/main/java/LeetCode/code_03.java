@@ -1,8 +1,10 @@
 package LeetCode;
 
-import java.util.*;
+import java.util.HashSet;
+import java.util.Set;
 
-public class hot_3 {
+public class code_03 {
+
     public int lengthOfLongestSubstring(String s) {
         Set<Character> tmp = new HashSet<>();
         int len = s.length();

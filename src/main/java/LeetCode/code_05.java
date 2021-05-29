@@ -2,8 +2,8 @@ package LeetCode;
 
 //给你一个字符串 s，找到 s 中最长的回文子串。
 
+public class code_05 {
 
-public class hot_5 {
 
     //中心扩散法
     public String longestPalindrome(String s) {
@@ -38,7 +38,7 @@ public class hot_5 {
         int maxStart = 0;
         int maxEnd = 0;
         int sLen = s.length();
-        
+
         boolean[][] dp = new boolean[sLen][sLen];
 
         for (int i = 1; i < sLen; i++) {
@@ -54,4 +54,5 @@ public class hot_5 {
         }
         return s.substring(maxStart,maxEnd+1);
     }
+
 }
