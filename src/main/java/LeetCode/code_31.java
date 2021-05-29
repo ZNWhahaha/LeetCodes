@@ -8,7 +8,7 @@ public class code_31 {
 
     public void nextPermutation(int[] nums) {
         int i = nums.length-2;
-        while (i>=0 && nums[i]>= nums[i-1])
+        while (i>=0 && nums[i] >= nums[i+1])
             i--;
         if (i >= 0){
             int j = nums.length-1;
@@ -29,8 +29,8 @@ public class code_31 {
         int left = start;
         int right = num.length-1;
         while (left < right){
-            swapNum(num,start,right);
-            start++;
+            swapNum(num,left,right);
+            left++;
             right--;
         }
     }
