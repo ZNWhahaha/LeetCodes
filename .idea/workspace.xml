@@ -64,10 +64,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.hj_25">
-    <configuration name="code_383" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.code_383" />
+  <component name="RunManager" selected="Application.code_42">
+    <configuration name="code_42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.code_42" />
       <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code_42" />
         <item itemvalue="Application.hj_25" />
         <item itemvalue="Application.hj_17" />
         <item itemvalue="Application.code_countingSirt" />
         <item itemvalue="Application.code_quicksort" />
-        <item itemvalue="Application.code_383" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +154,7 @@
       <workItem from="1621492261697" duration="122000" />
       <workItem from="1621509268229" duration="22937000" />
       <workItem from="1621928495444" duration="3218000" />
-      <workItem from="1622098585421" duration="10187000" />
+      <workItem from="1622098585421" duration="13862000" />
     </task>
     <servers />
   </component>
