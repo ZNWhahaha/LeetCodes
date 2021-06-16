@@ -3,7 +3,7 @@ package LeetCode;
 import java.util.Arrays;
 
 public class code_countingSirt {
-
+    //计数排序
     private int[] countingSort(int[] arr,int maxValue){
         int[] bucket = new int[maxValue+1];
         int sortINdex = 0;
@@ -24,7 +24,6 @@ public class code_countingSirt {
 
     public static void main(String[] args) {
         code_countingSirt cc = new code_countingSirt();
-//        int[] nums = {1,4,2,4,5,3,9,8};
         int[]  nums = {2,4,8,1,5,3,9,1};
         System.out.println(Arrays.toString(nums));
         cc.countingSort(nums,9);
