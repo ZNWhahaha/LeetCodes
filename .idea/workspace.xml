@@ -64,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.code_countingSirt">
+  <component name="RunManager" selected="Application.code_shellSort">
     <configuration name="code_42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.code_42" />
       <module name="LeetCode" />
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hj_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hj.hj_17" />
+    <configuration name="code_insertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.code_insertionSort" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hj.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hj_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hj.hj_25" />
+    <configuration name="code_shellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.code_shellSort" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hj.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code_shellSort" />
+        <item itemvalue="Application.code_insertionSort" />
         <item itemvalue="Application.code_countingSirt" />
         <item itemvalue="Application.code_64" />
         <item itemvalue="Application.code_42" />
-        <item itemvalue="Application.hj_25" />
-        <item itemvalue="Application.hj_17" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +162,7 @@
       <workItem from="1621928495444" duration="3218000" />
       <workItem from="1622098585421" duration="20326000" />
       <workItem from="1622787424052" duration="15849000" />
-      <workItem from="1623476026482" duration="8601000" />
+      <workItem from="1623476026482" duration="10176000" />
     </task>
     <servers />
   </component>
