@@ -6,6 +6,6 @@ package LeetCode;
 
 public class code_200 {
     public int numIslands(char[][] grid) {
-        
+        return 0;
     }
 }
