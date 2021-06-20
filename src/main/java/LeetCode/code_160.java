@@ -7,7 +7,7 @@ import java.util.Set;
 
 public class code_160 {
 
-    public class ListNode {
+    private class ListNode {
         int val;
         ListNode next;
         ListNode(int x) {

@@ -7,7 +7,7 @@ package LeetCode;
 
 public class code_141 {
 
-    class ListNode {
+    private class ListNode {
         int val;
         ListNode next;
         ListNode(int x) {
