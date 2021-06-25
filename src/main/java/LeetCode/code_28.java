@@ -19,7 +19,7 @@ public class code_28 {
         }
         return -1;
     }
-    //超出时限
+    
     private int[] getNext(String needle){
         int[] next = new int[needle.length()];
         int j = 0;
@@ -34,4 +34,35 @@ public class code_28 {
         return next;
     }
 
+    public int strStr_1(String haystack, String needle){
+        int i = 0;
+        int j = 0;
+        int[] next = getNext_1(needle);
+        while (i < haystack.length() && j < needle.length()){
+            if (j == -1 || haystack.charAt(i) == needle.charAt(j)){
+                i++;
+                j++;
+            }
+            else
+                j = next[j];
+        }
+        return j == needle.length() ? i-j : -1;
+    }
+
+    private int[] getNext_1(String needle){
+        int[] next = new int[needle.length()];
+        next[0] = -1;
+        int i = 0;
+        int j = -1;
+        while (i < needle.length()){
+            if (j == -1 || needle.charAt(i) == needle.charAt(j)){
+                i++;
+                j++;
+                next[i] = j;
+            }
+            else
+                j = next[j];
+        }
+        return next;
+    }
 }
