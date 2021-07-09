@@ -62,4 +62,40 @@ public class hj_39 {
         num = num << 8 | tmp;
         return num ;
     }
+
+    public static long ip2Num(String str){
+        char[] ch = str.toCharArray();
+        int tmp = 0;
+        long num = 0L;
+        int flag = 1;
+
+        for (char c : ch){
+            if (c == '.'){
+                num = num << 8 | tmp;
+                flag = 0;
+                tmp = 0;
+                continue;
+            }
+
+            if (flag >= 2)
+                return -1L;
+
+            if (c >= '0' && c <= '9'){
+                tmp = tmp * 10 + (c -'0');
+                if (tmp > 255){
+                    flag = 3;
+                }
+                else
+                    flag = 0;
+            }
+            else {
+                flag = 3;
+                break;
+            }
+        }
+        if (flag >= 2)
+            return -1L;
+        num = num << 8 | tmp;
+        return num;
+    }
 }
