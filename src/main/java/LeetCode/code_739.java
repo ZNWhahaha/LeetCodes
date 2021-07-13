@@ -7,6 +7,7 @@ package LeetCode;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
+import java.util.LinkedList;
 
 public class code_739 {
     //暴力解法
@@ -38,6 +39,18 @@ public class code_739 {
                 int t = stack.pop();
                 result[t] = i - t;
             }
+            stack.push(i);
+        }
+        return result;
+    }
+
+    public int[] dailyTemperatures_2(int[] temperatures){
+        int[] result = new int[temperatures.length];
+        Deque<Integer> stack = new LinkedList<>();
+        for (int i = temperatures.length-1; i >= 0; i--) {
+            while (!stack.isEmpty() && temperatures[stack.peek()] <= temperatures[i])
+                stack.pop();
+            result[i] = stack.isEmpty() ? 0 : stack.peek() - i;
             stack.push(i);
         }
         return result;
