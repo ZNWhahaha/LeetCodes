@@ -64,7 +64,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.hj_40">
+  <component name="RunManager" selected="Application.code_32">
+    <configuration name="code_32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hj.code_32" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hj_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hj.hj_29" />
       <module name="LeetCode" />
@@ -80,19 +93,6 @@
     </configuration>
     <configuration name="hj_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hj.hj_33" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hj_37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hj.hj_37" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code_32" />
         <item itemvalue="Application.hj_40" />
         <item itemvalue="Application.hj_38" />
         <item itemvalue="Application.hj_29" />
         <item itemvalue="Application.hj_33" />
-        <item itemvalue="Application.hj_37" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +172,7 @@
       <workItem from="1625042586312" duration="26263000" />
       <workItem from="1625816044180" duration="7522000" />
       <workItem from="1626170644902" duration="3093000" />
-      <workItem from="1626331808393" duration="3624000" />
+      <workItem from="1626331808393" duration="4905000" />
     </task>
     <servers />
   </component>
