@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="34be115b-e9a6-4bcf-9e48-75a388d6e25a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hj/code_32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hj/hj_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hj/hj_32.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.hj_42">
+  <component name="RunManager" selected="Application.hj_32">
     <configuration name="code_32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hj.code_32" />
       <module name="LeetCode" />
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hj_29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hj.hj_29" />
+    <configuration name="hj_32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hj.hj_32" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hj_32" />
         <item itemvalue="Application.hj_42" />
         <item itemvalue="Application.code_32" />
         <item itemvalue="Application.hj_40" />
         <item itemvalue="Application.hj_38" />
-        <item itemvalue="Application.hj_29" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +173,7 @@
       <workItem from="1625042586312" duration="26263000" />
       <workItem from="1625816044180" duration="7522000" />
       <workItem from="1626170644902" duration="3093000" />
-      <workItem from="1626331808393" duration="9397000" />
+      <workItem from="1626331808393" duration="11136000" />
     </task>
     <servers />
   </component>

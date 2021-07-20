@@ -4,6 +4,7 @@ package hj;
 import java.util.Scanner;
 
 public class hj_32 {
+    
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
