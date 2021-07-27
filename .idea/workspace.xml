@@ -64,20 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.hj_46">
-    <configuration name="ali_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ali_01" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.hj_48">
     <configuration name="hj_44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hj.hj_44" />
       <module name="LeetCode" />
@@ -117,6 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hj_48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hj.hj_48" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test0722_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.test0722_01" />
       <module name="LeetCode" />
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hj_48" />
         <item itemvalue="Application.hj_46" />
         <item itemvalue="Application.hj_45" />
         <item itemvalue="Application.hj_44" />
         <item itemvalue="Application.test0722_01" />
-        <item itemvalue="Application.ali_01" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,8 @@
       <workItem from="1626331808393" duration="15075000" />
       <workItem from="1626939429353" duration="1970000" />
       <workItem from="1627193259365" duration="1816000" />
-      <workItem from="1627281637721" duration="320000" />
+      <workItem from="1627281637721" duration="530000" />
+      <workItem from="1627365269307" duration="882000" />
     </task>
     <servers />
   </component>
