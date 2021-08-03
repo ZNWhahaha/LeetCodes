@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="34be115b-e9a6-4bcf-9e48-75a388d6e25a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/code_1488.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/code_1488.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.aiqiyi_03">
+  <component name="RunManager" selected="Application.hj_52">
     <configuration name="aiqiyi_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.aiqiyi_02" />
       <module name="LeetCode" />
@@ -92,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hj_48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hj.hj_48" />
+    <configuration name="hj_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hj.hj_50" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hj_50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hj.hj_50" />
+    <configuration name="hj_52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hj.hj_52" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hj_52" />
         <item itemvalue="Application.aiqiyi_03" />
         <item itemvalue="Application.aiqiyi_02" />
         <item itemvalue="Application.onepot_03" />
         <item itemvalue="Application.hj_50" />
-        <item itemvalue="Application.hj_48" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +181,7 @@
       <workItem from="1627475418507" duration="676000" />
       <workItem from="1627624565775" duration="355000" />
       <workItem from="1627641896823" duration="4837000" />
-      <workItem from="1627704284345" duration="6234000" />
+      <workItem from="1627704284345" duration="6739000" />
     </task>
     <servers />
   </component>
