@@ -64,20 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.hj_53">
-    <configuration name="aiqiyi_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.aiqiyi_02" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.hj_56">
     <configuration name="aiqiyi_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.aiqiyi_03" />
       <module name="LeetCode" />
@@ -117,12 +104,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="onepot_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.onepot_03" />
+    <configuration name="hj_55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hj.hj_55" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="hj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hj_56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hj.hj_56" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hj_56" />
+        <item itemvalue="Application.hj_55" />
         <item itemvalue="Application.hj_53" />
         <item itemvalue="Application.hj_52" />
         <item itemvalue="Application.aiqiyi_03" />
-        <item itemvalue="Application.aiqiyi_02" />
-        <item itemvalue="Application.onepot_03" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +182,8 @@
       <workItem from="1627624565775" duration="355000" />
       <workItem from="1627641896823" duration="4837000" />
       <workItem from="1627704284345" duration="6888000" />
-      <workItem from="1628054713057" duration="994000" />
+      <workItem from="1628054713057" duration="1042000" />
+      <workItem from="1628140907389" duration="1128000" />
     </task>
     <servers />
   </component>
