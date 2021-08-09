@@ -30,15 +30,11 @@ public class meituan_05 {
         for (int i = 0; i < n; i++) {
             in.nextLine();
         }
-        int[] treerun = new int[m];
-        for (int i = 0; i < m; i++) {
-            treerun[i] = in.nextInt();
-        }
+        
     }
 
-    private static void build(int[] nums){
+    private static void createTree(int[] nums){
         int n = nums.length;
-        nums[n/2] = t;
         
     }
 }
