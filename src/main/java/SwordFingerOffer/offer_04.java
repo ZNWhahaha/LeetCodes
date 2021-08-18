@@ -1,6 +1,7 @@
 package SwordFingerOffer;
 
 import java.util.Arrays;
+import java.util.HashSet;
 
 public class offer_04 {
     public int singleNumber(int[] nums) {
