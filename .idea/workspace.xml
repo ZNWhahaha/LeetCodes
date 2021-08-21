@@ -64,13 +64,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.youzan_01">
-    <configuration name="hj_61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hj.hj_61" />
+  <component name="RunManager" selected="Application.jd_02">
+    <configuration name="Sunmy_wangyi_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpOthers.Sunmy_wangyi_03" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hj.*" />
+          <option name="PATTERN" value="helpOthers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,8 +78,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="meituan_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.meituan_01" />
+    <configuration name="Sunmy_wangyi_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpOthers.Sunmy_wangyi_04" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helpOthers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jd_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.jd_01" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -91,21 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="meituan_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.meituan_02" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="meituan_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.meituan_03" />
+    <configuration name="jd_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.jd_02" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.jd_02" />
+        <item itemvalue="Application.jd_01" />
+        <item itemvalue="Application.Sunmy_wangyi_04" />
+        <item itemvalue="Application.Sunmy_wangyi_03" />
         <item itemvalue="Application.youzan_01" />
-        <item itemvalue="Application.hj_61" />
-        <item itemvalue="Application.meituan_03" />
-        <item itemvalue="Application.meituan_01" />
-        <item itemvalue="Application.meituan_02" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +184,8 @@
       <workItem from="1627704284345" duration="6888000" />
       <workItem from="1628054713057" duration="1042000" />
       <workItem from="1628140907389" duration="21639000" />
-      <workItem from="1629178087263" duration="9750000" />
+      <workItem from="1629178087263" duration="15142000" />
+      <workItem from="1629542945482" duration="3776000" />
     </task>
     <servers />
   </component>
