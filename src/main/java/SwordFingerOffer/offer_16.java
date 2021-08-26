@@ -1,7 +1,6 @@
 package SwordFingerOffer;
 
 import java.util.HashMap;
-import java.util.HashSet;
 
 public class offer_16 {
     public int lengthOfLongestSubstring(String s) {
