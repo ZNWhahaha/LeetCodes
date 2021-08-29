@@ -64,9 +64,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.dangdang_02">
-    <configuration name="Sunmy_wangyi_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helpOthers.Sunmy_wangyi_04" />
+  <component name="RunManager" selected="Application.Sunmy_keda_02">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpOthers.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helpOthers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sunmy_keda_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpOthers.Sunmy_keda_02" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -104,19 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jd_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.jd_01" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="jd_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.jd_02" />
       <module name="LeetCode" />
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sunmy_keda_02" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.dangdang_02" />
         <item itemvalue="Application.dangdang_01" />
         <item itemvalue="Application.jd_02" />
-        <item itemvalue="Application.jd_01" />
-        <item itemvalue="Application.Sunmy_wangyi_04" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +187,7 @@
       <workItem from="1629178087263" duration="15142000" />
       <workItem from="1629542945482" duration="3860000" />
       <workItem from="1629588895044" duration="2248000" />
-      <workItem from="1629872771346" duration="9117000" />
+      <workItem from="1629872771346" duration="12313000" />
     </task>
     <servers />
   </component>
