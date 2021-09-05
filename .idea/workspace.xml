@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="34be115b-e9a6-4bcf-9e48-75a388d6e25a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/code_mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/code_mergesort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode/code_quicksort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode/code_quicksort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,22 +66,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Qinlong_ali_01">
+  <component name="RunManager" selected="Application.code_quicksort">
     <configuration name="Qinlong_ali_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helpOthers.Qinlong_ali_01" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="helpOthers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Wangcd_zijie_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helpOthers.Wangcd_zijie_01" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -130,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="code_quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.code_quicksort" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code_quicksort" />
         <item itemvalue="Application.Qinlong_ali_01" />
         <item itemvalue="Application.Xiaomi_02" />
         <item itemvalue="Application.Xiaomi_01" />
         <item itemvalue="Application.code_mergesort" />
-        <item itemvalue="Application.Wangcd_zijie_01" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +189,8 @@
       <workItem from="1629178087263" duration="15142000" />
       <workItem from="1629542945482" duration="3860000" />
       <workItem from="1629588895044" duration="2248000" />
-      <workItem from="1629872771346" duration="36440000" />
+      <workItem from="1629872771346" duration="37013000" />
+      <workItem from="1630833862015" duration="1867000" />
     </task>
     <servers />
   </component>

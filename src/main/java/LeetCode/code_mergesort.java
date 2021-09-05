@@ -42,7 +42,7 @@ public class code_mergesort {
             index++;
         }
         while (position <= end) {
-            to[index - 1] = from[position - 1];
+            to[index] = from[position - 1];
             position++;
             index++;
         }
@@ -55,4 +55,49 @@ public class code_mergesort {
         cm.mergeSort(nums);
         System.out.println(Arrays.toString(nums));
     }
+
+    private void domerge(int[] nums, int[] tmp, int left, int right){
+        if (left == right)
+            tmp[left] = nums[left];
+        else {
+            int mid = (left + right) / 2;
+            domerge(nums, tmp, left, mid);
+            domerge(nums, tmp, mid+1, right);
+            merge(nums, tmp, left, mid, right);
+            System.arraycopy(nums, left, tmp, left, right-left+1);
+        }
+    }
+
+    private void merge(int[] from,int[] to,int left,int mid,int right){
+        int index = left;
+        int position = mid + 1;
+        while (left <= mid && position <= right){
+            if (from[left] < from[position]){
+                to[index] = from[left];
+                left++;
+            }
+            else {
+                to[index] = from[position];
+                position++;
+            }
+            index++;
+        }
+        while (left <= mid){
+            to[index] = from[left];
+            left++;
+            index++;
+        }
+        while (position <= right){
+            to[index] = from[position];
+            left++;
+            position++;
+        }
+    }
+
+    private void swap_h(int[] nums, int i, int j){
+        nums[i] = nums[i] ^ nums[j];
+        nums[j] = nums[i] ^ nums[j];
+        nums[i] = nums[i] ^ nums[j];
+    }
+
 }
