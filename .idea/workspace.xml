@@ -64,33 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Qinl_futu_02">
-    <configuration name="Baidu_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Baidu_01" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Baidu_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Baidu_02" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Yaoyi_dahua_01">
     <configuration name="Qinl_futu_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helpOthers.Qinl_futu_01" />
       <module name="LeetCode" />
@@ -130,13 +104,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Yaoy_dahua_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpOthers.Yaoy_dahua_03" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helpOthers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Yaoyi_dahua_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpOthers.Yaoyi_dahua_01" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helpOthers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Yaoyi_dahua_01" />
+        <item itemvalue="Application.Yaoy_dahua_03" />
         <item itemvalue="Application.Qinl_futu_02" />
         <item itemvalue="Application.Qinl_futu_01" />
         <item itemvalue="Application.Qinl_futu_03" />
-        <item itemvalue="Application.Baidu_02" />
-        <item itemvalue="Application.Baidu_01" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +189,7 @@
       <workItem from="1629588895044" duration="2248000" />
       <workItem from="1629872771346" duration="37013000" />
       <workItem from="1630833862015" duration="17418000" />
-      <workItem from="1631185244262" duration="1008000" />
+      <workItem from="1631185244262" duration="2275000" />
     </task>
     <servers />
   </component>
