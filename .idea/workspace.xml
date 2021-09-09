@@ -64,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Baidu_02">
+  <component name="RunManager" selected="Application.Qinl_futu_02">
     <configuration name="Baidu_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Baidu_01" />
       <module name="LeetCode" />
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sunmy_zijie01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helpOthers.Sunmy_zijie01" />
+    <configuration name="Qinl_futu_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpOthers.Qinl_futu_01" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sunmy_zijie_xuan01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helpOthers.Sunmy_zijie_xuan01" />
+    <configuration name="Qinl_futu_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpOthers.Qinl_futu_02" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wangcd_tengxun_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helpOthers.Wangcd_tengxun_01" />
+    <configuration name="Qinl_futu_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpOthers.Qinl_futu_03" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Qinl_futu_02" />
+        <item itemvalue="Application.Qinl_futu_01" />
+        <item itemvalue="Application.Qinl_futu_03" />
         <item itemvalue="Application.Baidu_02" />
         <item itemvalue="Application.Baidu_01" />
-        <item itemvalue="Application.Wangcd_tengxun_01" />
-        <item itemvalue="Application.Sunmy_zijie01" />
-        <item itemvalue="Application.Sunmy_zijie_xuan01" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +188,8 @@
       <workItem from="1629542945482" duration="3860000" />
       <workItem from="1629588895044" duration="2248000" />
       <workItem from="1629872771346" duration="37013000" />
-      <workItem from="1630833862015" duration="16911000" />
+      <workItem from="1630833862015" duration="17418000" />
+      <workItem from="1631185244262" duration="1008000" />
     </task>
     <servers />
   </component>
