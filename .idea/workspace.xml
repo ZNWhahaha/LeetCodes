@@ -64,35 +64,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Yaoyi_dahua_01">
-    <configuration name="Qinl_futu_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helpOthers.Qinl_futu_01" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="helpOthers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.wuba58_01">
     <configuration name="Qinl_futu_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helpOthers.Qinl_futu_02" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="helpOthers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Qinl_futu_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helpOthers.Qinl_futu_03" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -130,13 +104,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="wuba58_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.wuba58_01" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wuba58_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.wuba58_03" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.wuba58_01" />
+        <item itemvalue="Application.wuba58_03" />
         <item itemvalue="Application.Yaoyi_dahua_01" />
         <item itemvalue="Application.Yaoy_dahua_03" />
         <item itemvalue="Application.Qinl_futu_02" />
-        <item itemvalue="Application.Qinl_futu_01" />
-        <item itemvalue="Application.Qinl_futu_03" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +190,9 @@
       <workItem from="1629872771346" duration="37013000" />
       <workItem from="1630833862015" duration="17418000" />
       <workItem from="1631185244262" duration="2600000" />
-      <workItem from="1631278877854" duration="161000" />
+      <workItem from="1631278877854" duration="197000" />
+      <workItem from="1631279656198" duration="322000" />
+      <workItem from="1631361619404" duration="3200000" />
     </task>
     <servers />
   </component>
@@ -221,6 +223,36 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode/code_105.java</url>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/wuba58_03.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/wuba58_03.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/wuba58_03.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/wuba58_03.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/wuba58_03.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/wuba58_03.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
