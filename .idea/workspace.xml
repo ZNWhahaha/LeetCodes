@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="34be115b-e9a6-4bcf-9e48-75a388d6e25a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/helpOthers/Qinl_Aiqiyi_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/helpOthers/Qinl_Aiqiyi_03.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,9 +64,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Wangcd_bilibili_02">
-    <configuration name="Qinl_Aiqiyi_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helpOthers.Qinl_Aiqiyi_02" />
+  <component name="RunManager" selected="Application.RunForever">
+    <configuration name="Qinl_Aiqiyi_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpOthers.Qinl_Aiqiyi_03" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -79,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Qinl_Aiqiyi_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helpOthers.Qinl_Aiqiyi_03" />
+    <configuration name="RunForever" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.RunForever" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="helpOthers.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunForever" />
         <item itemvalue="Application.Wangcd_bilibili_02" />
         <item itemvalue="Application.Wangcd_bilibili_01" />
         <item itemvalue="Application.Qinl_Aiqiyi_03" />
         <item itemvalue="Application.Sunmy_Aiqiyi_01" />
-        <item itemvalue="Application.Qinl_Aiqiyi_02" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +193,8 @@
       <workItem from="1631278877854" duration="197000" />
       <workItem from="1631279656198" duration="322000" />
       <workItem from="1631361619404" duration="6910000" />
-      <workItem from="1631532448685" duration="2103000" />
+      <workItem from="1631532448685" duration="2326000" />
+      <workItem from="1631702971298" duration="985000" />
     </task>
     <servers />
   </component>
