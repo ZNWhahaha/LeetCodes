@@ -64,9 +64,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RunForever">
+  <component name="RunManager" selected="Application.Qinlong_360_01">
     <configuration name="Qinl_Aiqiyi_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helpOthers.Qinl_Aiqiyi_03" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helpOthers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qinlong_360_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpOthers.Qinlong_360_01" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -84,19 +97,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sunmy_Aiqiyi_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helpOthers.Sunmy_Aiqiyi_01" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="helpOthers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Qinlong_360_01" />
         <item itemvalue="Application.RunForever" />
         <item itemvalue="Application.Wangcd_bilibili_02" />
         <item itemvalue="Application.Wangcd_bilibili_01" />
         <item itemvalue="Application.Qinl_Aiqiyi_03" />
-        <item itemvalue="Application.Sunmy_Aiqiyi_01" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +194,8 @@
       <workItem from="1631279656198" duration="322000" />
       <workItem from="1631361619404" duration="6910000" />
       <workItem from="1631532448685" duration="2326000" />
-      <workItem from="1631702971298" duration="985000" />
+      <workItem from="1631702971298" duration="1263000" />
+      <workItem from="1632555892992" duration="3274000" />
     </task>
     <servers />
   </component>
