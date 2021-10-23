@@ -64,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Qinlong_58_01">
+  <component name="RunManager" selected="Application.Sunmy_PuFa03">
     <configuration name="Qinlong_360_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helpOthers.Qinlong_360_01" />
       <module name="LeetCode" />
@@ -104,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wangcd_bilibili_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helpOthers.Wangcd_bilibili_01" />
+    <configuration name="Sunmy_PuFa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpOthers.Sunmy_PuFa" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wangcd_bilibili_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helpOthers.Wangcd_bilibili_02" />
+    <configuration name="Sunmy_PuFa03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpOthers.Sunmy_PuFa03" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sunmy_PuFa03" />
+        <item itemvalue="Application.Sunmy_PuFa" />
         <item itemvalue="Application.Qinlong_58_01" />
         <item itemvalue="Application.Qinlong_360_01" />
         <item itemvalue="Application.RunForever" />
-        <item itemvalue="Application.Wangcd_bilibili_02" />
-        <item itemvalue="Application.Wangcd_bilibili_01" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +195,9 @@
       <workItem from="1631361619404" duration="6910000" />
       <workItem from="1631532448685" duration="2326000" />
       <workItem from="1631702971298" duration="1263000" />
-      <workItem from="1632555892992" duration="5075000" />
+      <workItem from="1632555892992" duration="5117000" />
+      <workItem from="1633596225178" duration="261000" />
+      <workItem from="1634802415871" duration="3167000" />
     </task>
     <servers />
   </component>
